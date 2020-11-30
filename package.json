@@ -1,0 +1,11 @@
+{
+  "name": "iframe-third-party-cookies",
+  "version": "1.0.0",
+  "description": "Testing the use of cookies inside an iframe",
+  "author": "Nick Van Nieuwenhuyse",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.16.2"
+  }
+}
